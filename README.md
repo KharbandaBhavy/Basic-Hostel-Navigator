@@ -1,5 +1,5 @@
 # Hostel Navigator 
-It's a Basic HTML/CSS Website ti test the deployment on AWS Server.
+It's a Basic HTML/CSS Website to test the deployment on AWS Server.
 A web application that helps students to find places of residence as they study. 
 
 
