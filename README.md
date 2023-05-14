@@ -1,4 +1,5 @@
-# Hostel_finder
+# Hostel Navigator 
+It's a Basic HTML/CSS Website ti test the deployment on AWS Server.
 A web application that helps students to find places of residence as they study. 
 
 
